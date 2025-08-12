@@ -7,7 +7,7 @@
 output example:
 
 
-/d/UPES/Linux_Lab
+/d/UPES/Linux_Lab 
 
 ## Is command
 The is command in linux 
