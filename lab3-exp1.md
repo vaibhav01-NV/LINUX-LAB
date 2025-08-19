@@ -1,6 +1,5 @@
 # Basic Linux Commands
-
-'''bash
+```bash
 >>pwd
 
 
@@ -12,14 +11,14 @@ output example:
 ## Is command
 The is command in linux 
 
-'''bash
->>Is
+```bash
+>>ls
 
 ### Is flags
 
 # ls command
 
-'''
+```
 the ls command in linux allows to view all the files and folders in current working directory. flag -a list down all file and folder including the one which are hidden
 ```
 ```bash
